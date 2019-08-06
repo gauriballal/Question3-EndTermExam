@@ -16,7 +16,7 @@ public class MediumQuestionTest {
 	@SuppressWarnings("static-access")
 	@Test
 	public void seniorCitizen() {
-		assertEquals(440.0,senior.getBillAmount(500.0),0.0);
+		assertEquals(450.0,senior.getBillAmount(500.0),0.0);
 	}
 
 }
